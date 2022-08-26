@@ -1,0 +1,5 @@
+MOV1#Interstellar#13.00#A#70000
+MOV2#Train to Busan#13.00#B#60000
+MOV3#How to Train Your Dragon#15.00#B#50000
+MOV4#Incantation#15.00#B#40000
+MOV5#IT#17.00#J#30000

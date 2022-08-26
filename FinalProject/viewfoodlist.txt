@@ -1,0 +1,13 @@
+f1#Hotdog#50000
+f2#Fish and Chips#80000
+f4#Sweet Small Popcorn#45000
+f5#Sweet Medium Popcorn#55000
+f6#Sweet Larga Popcorn#55000
+f6#Salty Large Popcorn#60000
+f7#Salty Small Popcorn#40000
+f8#Salty Medium Popcorn#45000
+f9#Salty Large Popcorn#60000
+f10#Caramel Small Popcorn#55000
+f11#Caramel Medium Popcorn#60000
+f12#Caramel Large Popcorn#65000
+f13#French Fries#60000
